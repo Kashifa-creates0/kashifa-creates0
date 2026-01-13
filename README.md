@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi 👋 I’m Kashifa
+
 A BCA student specializing in Artificial Intelligence & Machine Learning at Amity University with a strong interest in both web development and core programming fundamentals.
 I’m currently learning HTML, CSS, and JavaScript for front-end development, along with C programming to build a solid foundation in logic and problem-solving.
 I enjoy learning by building projects, experimenting with ideas, and documenting my growth through code on GitHub.
